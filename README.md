@@ -81,6 +81,7 @@ ce document.
 * Comment identifier l'émetteur de carte ?
 * La formule de Luhn est-elle utilisée pour d'autres cas d'emploi ?
 * Quelles sont les principales différence avec l'[ISBN] ou l'[EAN_13] ?
+* Comprenez-vous l'[implémentation faite](https://github.com/bendrucker/fast-luhn/blob/master/index.js) pour le package NPM [fast-luhn](https://www.npmjs.com/package/fast-luhn) ?
 
 [ISBN]: https://fr.wikipedia.org/wiki/International_Standard_Book_Number#Structure_de_l'ISBN-13
 [EAN_13]: https://fr.wikipedia.org/wiki/EAN_13

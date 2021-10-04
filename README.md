@@ -74,7 +74,7 @@ ce document.
 ## Je l'ai fait 💪
 
 * La version de [@octocat](https://github.com/octocat) a été faite en `langage` et est disponible [ici](https://#).
-
+* La version de [@D4rkHeart](https://github.com/D4rkHeart) a été faite en `JavaScript` et est disponible [ici](https://github.com/D4rkHeart/Kata-Luhn).
 
 ## Pour aller plus loin
 
